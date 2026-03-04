@@ -1,0 +1,46 @@
+
+
+#banner{
+    width: 100%;
+    
+}
+
+
+.principal{
+    background: rgb(180, 255, 155);
+    padding: 30px;
+}
+
+.titulo-centro{
+    text-align: center;
+    
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+p {
+    text-align:center;
+}
+
+
+em strong{
+    color:darkred;
+}
+
+.item{
+    font-style: italic;
+}
+
+.beneficios{
+    background: rgb(180, 255, 155);
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
